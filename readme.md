@@ -57,7 +57,7 @@ Nun werden wir die Webseite etwas komplexer gestalten, indem wir Elemente anders
 ### Bilder einfügen:
 
 - Lade ein Bild herunter, das deine Hobbys darstellt, und speichere es in deinem meine-webseite Ordner.
-- Füge das Bild unterhalb deiner Hobby-Liste in der HTML-Datei ein. Der Tag dafür lautet ```<img src="name-des-bildes.jpg" alt="Beschreibung des Bildes">```. Ersetze name-des-bildes.jpg durch den Namen deines Bildes.
+- Füge das Bild unterhalb deiner Hobby-Liste in der HTML-Datei ein. Der Tag dafür lautet ```<img src="name-des-bildes.jpg" alt="Beschreibung des Bildes">```. Ersetze ```name-des-bildes.jpg``` durch den Namen deines Bildes.
 
 ### CSS-Anpassungen:
 - Zentriere den gesamten Inhalt deiner Seite (den Text und das Bild).
